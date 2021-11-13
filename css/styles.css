@@ -8,6 +8,7 @@
 
 body {
   font-family: Roboto, sans-serif;
+  font-style: normal;
 }
 .list {
   list-style: none;
@@ -40,8 +41,6 @@ body {
   color: var(--second-logo-title-color);
 }
 .link-navigation {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -49,8 +48,6 @@ body {
   color: var(--title-color);
 }
 .header-mail {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -58,8 +55,6 @@ body {
   color: var(--text-color);
 }
 .header-tel {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -71,8 +66,6 @@ body {
   background-color: #2f303a;
 }
 .title-text {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -82,8 +75,6 @@ body {
   color: var(--main-title-color);
 }
 .title-button {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 1.87;
@@ -95,8 +86,6 @@ body {
   color: var(--main-title-color);
 }
 .title-list {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: bold;
   font-size: 14px;
   line-height: 1.14;
@@ -105,8 +94,6 @@ body {
   color: var(--title-color);
 }
 .list-text {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
@@ -114,8 +101,6 @@ body {
   color: var(--text-color);
 }
 .heading-section-doit {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: bold;
   font-size: 36px;
   line-height: 1.17;
@@ -124,8 +109,6 @@ body {
   color: var(--title-color);
 }
 .heading-section-teem {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: bold;
   font-size: 36px;
   line-height: 1.17;
@@ -134,8 +117,6 @@ body {
   color: var(--title-color);
 }
 .list-teem-name {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -144,8 +125,6 @@ body {
   color: var(--title-color);
 }
 .list-teem-position {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 1.19;
@@ -161,7 +140,6 @@ body {
   color: #ffffff;
 }
 .footer-addres {
-  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -170,8 +148,6 @@ body {
   color: #ffffff;
 }
 .footer-mail {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
@@ -179,8 +155,6 @@ body {
   color: rgba(255, 255, 255, 0.6);
 }
 .footer-tel {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
@@ -189,8 +163,6 @@ body {
 }
 /*---------------------------------------------------------portfolio-------------------------------------------------*/
 .portfolio-list-btn {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -203,8 +175,6 @@ body {
   border-radius: 4px;
 }
 .portfolio-client-name {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 2;
@@ -212,8 +182,6 @@ body {
   color: var(--title-color);
 }
 .portfolio-client-product {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 1.87;
